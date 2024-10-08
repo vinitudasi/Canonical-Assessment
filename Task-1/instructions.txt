@@ -1,0 +1,11 @@
+
+--------------------------Make executable and run------------------
+
+
+"chmod +x run_qemu.sh"
+
+
+"./run_qemu.sh"
+
+
+good to go :)
