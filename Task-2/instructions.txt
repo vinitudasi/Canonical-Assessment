@@ -1,0 +1,11 @@
+-------------------------shred tool go----------------------
+
+
+
+make a go project
+
+" go mod init <foldername>"
+
+use the test files provided
+
+"go test"
